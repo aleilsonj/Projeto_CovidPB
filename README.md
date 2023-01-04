@@ -2,7 +2,7 @@
 
 ## Ano de 2019
 
-Este projeto buscou análisar por meio de gráficos os municípios mais afetados no estado paraibano no ano de 2019.
+Este projeto buscou analisar por meio de gráficos os municípios mais afetados no estado paraibano no ano de 2019.
 
 1. O gráfico a seguir mostra informações de número de casos acumulados de covid-19 por município no estado da Paraíba.
 
