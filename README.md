@@ -13,6 +13,14 @@ Este projeto buscou análisar por meio de gráficos os municípios mais afetados
 É possível observar que a maior parte do estado paraibano está na escala de 1 a 100 caso de covid-19 (representado pela cor verde).
 Ainda é possível observar que o litoral paraibano e os municípios vizinhos concentra os municípios que apresentam maior número de casos acumulados.
 
+Vejamos no gráfico abaixo quais o municípios do estado da paraíba que apresentam maior número de casos acumulados:
+
+<div align="center">
+<img height="500px" src="https://user-images.githubusercontent.com/119846236/210457933-7696f65e-9acc-4391-91c4-3a0546046fa9.png" width="700px" />
+</div>
+
+A capital paraibana João Pessoa é o município que apresentam o maior número de casos acumulados, seguida de Campina grande, Guarabira e Patos.
+
 2. A seguir será apresentado um mapa do estado da Paraíba colirido de acordo com a quantidade de óbitos por município.
 
 <div align="center">
